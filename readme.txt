@@ -27,7 +27,7 @@ git submodule init
 # file in the top-level directory of your project.
 
 # this next step won't be needed since you just added the
-# submodule seconds ago, but it won't hurt anything.
+# submodule seconds ago, but it won't hurt anything:
 
 git submodule update
 
@@ -40,7 +40,7 @@ need to run these once:
 git submodule init
 git submodule update
 
-Then from time to time, it's a good idea to run
+Then from time to time, it's a good idea to run:
 
 git submodule update
 
