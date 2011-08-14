@@ -23,7 +23,7 @@ then:
 
 git submodule init
 
-# after doing the above line, you now have a .gitsubmodules
+# after doing the above line, you now have a .gitmodules
 # file in the top-level directory of your project.
 
 # this next step won't be needed since you just added the
@@ -46,4 +46,12 @@ git submodule update
 
 again to get the latest code from the submodule.
 
+
+
+---------------------------------------------------------------------
+This project was developed as sample code for the iOS Developer Study
+Group that meets at the Hacker Dojo in Mountain View, CA.
+
+It is provided under the terms of the Apache license.
+---------------------------------------------------------------------
 
