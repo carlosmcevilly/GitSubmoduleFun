@@ -1,5 +1,5 @@
-FakeProject
-===========
+GitSubmoduleFun
+===============
 
 This project was our playground for adding a git submodule to
 a git repository.
