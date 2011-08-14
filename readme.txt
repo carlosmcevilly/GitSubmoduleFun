@@ -54,7 +54,7 @@ $ git submodule update
 again to get the latest code from the submodule. If you
 are the person who set up the repository using a submodule
 in the first place, you'll need to tell any users who are
-cloning your repository to do the above steps.
+cloning your repository to do these steps.
 
 
 
